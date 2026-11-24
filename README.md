@@ -1,5 +1,9 @@
 # Home Buying Decision Room (hackathon prototype)
 
+**Live demo:** https://claude.ai/artifact/4P8qmtSgkKWtzhCoURykAn
+
+Open it on desktop for the phone view plus walkthrough notes, or on a phone for the full-screen app. Use **Load demo couple** or **Load demo investor** to start.
+
 A research and decision room for first-time homebuyers in Delhi NCR. **All projects, builders, documents and developments are fictional and simulated.** Locality names are real.
 
 - `app/`: the prototype (no build step, no dependencies). `data.js` holds the seed dataset, `engine.js` the deterministic decision engine and agents, and `app.js` the UI.
