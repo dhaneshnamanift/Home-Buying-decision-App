@@ -1,6 +1,8 @@
 # Home Buying Decision Room (hackathon prototype)
 
-**Live demo:** https://claude.ai/artifact/4P8qmtSgkKWtzhCoURykAn
+**Live demo:** https://home-buying-decision-app-app.vercel.app
+
+Backup link: https://claude.ai/artifact/4P8qmtSgkKWtzhCoURykAn (voice input works only on the Vercel link)
 
 Open it on desktop for the phone view plus walkthrough notes, or on a phone for the full-screen app. Use **Load demo couple** or **Load demo investor** to start.
 
