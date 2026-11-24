@@ -1,0 +1,14 @@
+# Local tool settings
+.claude/
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs and secrets (none are used today; kept out by default)
+*.log
+.env
+.env.*
